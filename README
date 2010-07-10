@@ -1,0 +1,10 @@
+This project is an attempt to translate the structure of the Open Wonderland project into Maven.
+
+The original project is built using ant scripts, and it's tied to the Netbeans IDE. This project intends to be IDE independent.
+
+Other goals are:
+	- Speed up the build process
+	- Be able to build modules without the need of having the core sources
+	- Reduce memory usage in the build process
+	- Manage dendencies
+	- Create an archetype for Modules
