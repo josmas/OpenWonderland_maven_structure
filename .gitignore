@@ -1,0 +1,6 @@
+# Ignoring the following files and patterns
+.project
+.classpath
+.settings
+nbproject
+.DS_Store
